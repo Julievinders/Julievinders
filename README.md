@@ -1,6 +1,6 @@
 Hello
 
-I am @Julievinders and interested in learning the basis of #github
+I am @Julievinders and I would like to learn the basis of #github
 
 <!--- this does not appear now, does it? lol lol lol ---!>
 
